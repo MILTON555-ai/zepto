@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/style/cards.css">
+</head>
+<body>
+    <%- include('../partials/navBar.ejs') %>
+    <h1 id="tit">Snacks</h1>
+    <div class="div1">
+    <% sna.map((x)=>{%>
+      <div class="card">
+        <div class="id">
+          <div class="id_items">
+            <img src=<%=x.image%> alt="">
+            <h2>Product Id: <%= x.id %></h2>
+          </div>
+        </div>
+        <div class="ddet">
+          <h1><%= x.productName %></h1>
+        <h3>Price: <%= x.price%></h3>
+        <p><b>Description:</b> <%= x.description%></p>
+        </div>
+      </div>
+        <%})%>
+      </div>
+</body>
+</html>

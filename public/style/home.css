@@ -1,0 +1,35 @@
+
+body {
+    background-color: rgb(38, 2, 66);
+
+}
+.store{
+    display: flex;
+}
+
+.store img {
+    width: 230px;
+    height: 70px;
+    border: 2px solid rgb(219, 214, 214);
+    border-radius: 10px;
+    margin: 80px 30px 0px 30px;
+}
+.main{
+    display: flex;
+    height: 90vh;
+    background-color: rgba(40, 3, 72, 0.388);
+}
+.del {
+    width: 500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.del h1{
+    color: white;
+    font-size: 500%;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.pic img{
+    height: 90vh;
+    width: 60vw;
+}

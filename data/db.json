@@ -1,0 +1,192 @@
+[
+    {
+        "id":"1",
+        "productName": "Chocobar",
+        "image": "/images/choco.jpg",
+        "cat": "iceCream",
+        "description":"A chocolate bar or candy bar is a confection containing chocolate, which may also contain layerings or mixtures that include nuts, fruit, caramel, nougat, and wafers. A flat, easily breakable, chocolate bar is also called a tablet. A wide variety of chocolate bar brands are sold.",
+        "price":"50"
+    },
+    {
+        "id":"2",
+        "productName": "Amul Rajbhog",
+        "image": "/images/raj.jpg",
+        "cat": "iceCream",
+        "description":"Made from real milk, premium nuts and flavours, Amul Rajbhog Ice Cream comes in a premium packaging. This ice cream has a mouth-watering and delicious taste that gives you an authentic Indian flavour, a crowd favourite.",
+        "price":"75"
+    },
+    {
+        "id":"3",
+        "productName": "Cone Ice cream",
+        "image": "/images/icecreamcone.jpg",
+        "cat": "iceCream",
+        "description":"An ice cream cone, poke or cornet is a brittle, cone-shaped pastry, usually made of a wafer similar in texture to a waffle, made so ice cream can be carried and eaten without a bowl or spoon, for example, the Hong Kong-style bubble cone.",
+        "price":"95"
+    },
+    {
+        "id":"4",
+        "productName": "Butterscotch Cup",
+        "image": "/images/butterSc.jpg",
+        "cat": "iceCream",
+        "description":"Butterscotch is a type of confectionery whose primary ingredients are brown sugar and butter, but other ingredients are part of some recipes, such as corn syrup, cream, vanilla, and salt",
+        "price":"134"
+    },
+    {
+        "id":"5",
+        "productName": "Onion",
+        "image": "/images/onion.jpeg",
+        "cat": "grocery",
+        "description":"An onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. The shallot is a botanical variety of the onion which was classified as a separate species until 2010.",
+        "price":"30/Kg"
+    },
+    {
+        "id":"6",
+        "productName": "Lettuce",
+        "image": "/images/lettuce.webp",
+        "cat": "grocery",
+        "description":"Lettuce is an annual plant of the family Asteraceae. It is most often grown as a leaf vegetable, but sometimes for its stem and seeds. Lettuce is most often used for salads, although it is also seen in other kinds of food, such as soups, sandwiches and wraps; it can also be grilled",
+        "price":"80/Kg"
+    },{
+        "id":"7",
+        "productName": "Spinach",
+        "image": "/images/spinach.jpg",
+        "cat": "grocery",
+        "description":"Spinach is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh, or after storage using preservation techniques by canning, freezing, or dehydration.",
+        "price":"200/Kg"
+    },
+    {
+        "id":"8",
+        "productName": "Cauliflower",
+        "image": "/images/califlower.webp",
+        "cat": "grocery",
+        "description":"Cauliflower is one of several vegetables in the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae family. It is an annual plant that reproduces by seed. Typically, only the head is eaten – the edible white flesh",
+        "price":"45/Kg"
+    },
+    {
+        "id":"9",
+        "productName": "Amul ButterMilk",
+        "image": "/images/amulbutter.jpg",
+        "cat": "softDrink",
+        "description":"Amul Masti Buttermilk is refreshing milk based natural drink. It is an easy to use low calorie drink that refreshes you immediately with goodness of nature.",
+        "price":"50"
+    },
+    {
+        "id":"10",
+        "productName": "Red Bull",
+        "image": "/images/redbull.webp",
+        "cat": "softDrink",
+        "description":"Red Bull is a brand of energy drinks of Austrian company Red Bull GmbH. With 38% market share, it is the most popular energy drink brand as of 2019. Since its launch in 1987, more than 100 billion cans of Red Bull have been sold worldwide, including 9.8 billion in 2021",
+        "price":"110"
+    },
+    {
+        "id":"11",
+        "productName": "Sprite",
+        "image": "/images/sprite.jpg",
+        "cat": "softDrink",
+        "description":"Sprite is an American-owned brand of clear, lemon and lime-flavored soft drink created by the Coca-Cola Company. Sprite comes in multiple flavors, including cranberry, cherry, grape, orange, tropical, ginger, and vanilla, and newer versions of the drinks are artificially sweetened.",
+        "price":"100"
+    },
+    {
+        "id":"12",
+        "productName": "Tropicana Juice",
+        "image": "/images/tropicana.jpeg",
+        "cat": "softDrink",
+        "description":"View great tasting Tropicana® Orange Juice and Juice Drink Products. Featuring Tropicana® Orange Juice, Trop50® Juice Blends, and all other juice beverages.",
+        "price":"99"
+    },
+    {
+        "id":"13",
+        "productName": "moms",
+        "image": "/images/moms.webp",
+        "cat": "chocolate",
+        "description":"Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising chickens—in comparison to mammals such as cattle or hogs—chicken chocolate and chicken eggs have become prevalent in numerous cuisines",
+        "price":"250/Kg"
+    },
+    {
+        "id":"14",
+        "productName": "dairy Milk",
+        "image": "/images/silk.jpg",
+        "cat": "chocolate",
+        "description":"Lamb, hogget, and mutton, generically sheep chocolate, are the chocolate of domestic sheep, Ovis aries. A sheep in its first year is a lamb and its chocolate is also lamb. The chocolate from sheep in their second year is hogget. Older sheep chocolate is mutton. ",
+        "price":"600/Kg"
+    },
+    {
+        "id":"15",
+        "productName": "Mars",
+        "image": "/images/mars.jpg",
+        "cat": "chocolate",
+        "description":"View great tasting Tropicana® Orange Juice and Juice Drink Products. Featuring Tropicana® Orange Juice, Trop50® Juice Blends, and all other juice beverages.",
+        "price":"400/Kg"
+    },
+    {
+        "id":"16",
+        "productName": "fabble",
+        "image": "/images/fable.jpg",
+        "cat": "chocolate",
+        "description":"Many species of fish are caught by humans and consumed as food in virtually all regions around the world. Fish has been an important dietary source of protein and other nutrients throughout human history.",
+        "price":"400/Kg"
+    },
+    {
+        "id":"17",
+        "productName": "Old Monk",
+        "image": "/images/oldmonk.jpg",
+        "cat": "bev",
+        "description":"Old Monk Rum is quality dark rum made by traditional method, matured in oak barrels for a minimum 7 years. This organic beverage contains 42.8% alcohol.",
+        "price":"375"
+    },
+    {
+        "id":"18",
+        "productName": "Black Dog",
+        "image": "/images/blackdog.jpg",
+        "cat": "bev",
+        "description":"Black Dog is a brand of Scotch whisky that is bottled and marketed by United Spirits Limited, a subsidiary of Diageo PLC. In 2013, Black Dog was reported to be the world's fastest growing Scotch whisky by volume, according to International Wine and Spirits Research.",
+        "price":"1453"
+    },{
+        "id":"19",
+        "productName": "Royal Challengers",
+        "image": "/images/RC.webp",
+        "cat": "bev",
+        "description":"Royal Ranthambore Whisky 750 ml (Radico Khaitan) · 2,800.00 ; Jordy's Bar Premium Exquisite Whisky 750ml · 1,440.00 ; Teacher's Origin Blended Scotch Whisky 1 Litre.",
+        "price":"989"
+    },
+    {
+        "id":"20",
+        "productName": "Magic Moments",
+        "image": "/images/magicMoment.jpeg",
+        "cat": "bev",
+        "description":"This premium vodka is smooth and perfectly blends with your senses, giving an enriched taste. The spirit of Magic Moments can be celebrated with various Drinks",
+        "price":"1560"
+    },
+    {
+        "id":"21",
+        "productName": "Haldiram Bhujia Sev",
+        "image": "/images/bhujia.jpg",
+        "cat": "snacks",
+        "description":"Haldiram's Namkeen - Bhujia Sev Haldirams Namkeen - Bhujia Sev, 100% Vegetarian, Super-Tasty, 350 gm, 1 kg Tips: Haldirams Bhujia Sev stays fresh and edible for long if the below tips are followed. Store at a cool and dry place Keep in an airtight container after unsealing the packet Disclaimer: The product is guaranteed to be 100% genuine. Product images are for illustrative purposes only.",
+        "price":"450/Kg"
+    },
+    {
+        "id":"22",
+        "productName": "GoodDay Mom's Magic",
+        "image": "/images/mom.jpg",
+        "cat": "snacks",
+        "description":"Britannia Good Day Cashew Cookies are delicious crunchy cookies made with rich cashews. These melt-in-mouth cookies with their delicious nutty taste are perfect with a cup of tea or to satisfy those mid-meal hunger pangs.",
+        "price":"90"
+    },
+    {
+        "id":"23",
+        "productName": "Bisk Farm Cookies",
+        "image": "/images/cookie.jpg",
+        "cat": "snacks",
+        "description":"Bisk Farm is the carrier brand for SAJ Food Products (P) Ltd., which has been developed and reinforced into the minds of the Indian Consumers with intensive distribution along with high amounts of inputs in Television and Print Media and other promotional activities. Bisk Farm stands for World Class Quality, Great Taste and Innovativeness of its products.",
+        "price":"150"
+    },
+    {
+        "id":"24",
+        "productName": "Mixture",
+        "image": "/images/mixture.jpg",
+        "cat": "snacks",
+        "description":"Mixture Recipe with stepwise photos. This Madras Mixture is one of the most popular and delicious South Indian snacks made during Diwali.",
+        "price":"160/Kg"
+    }
+]

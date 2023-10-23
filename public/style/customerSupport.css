@@ -1,0 +1,23 @@
+.cus{
+    /* background-color: rgb(38, 2, 66); */
+    background: url("https://t3.ftcdn.net/jpg/04/70/11/64/360_F_470116460_gG4tviMXUKBQ9GR6TysvK7EqGl06PS5X.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    
+}
+.cus h1{
+    color: aliceblue;
+    margin-left: 80px;
+    font-size: 60px;
+}
+.cus h3{
+    color: aliceblue;
+    margin-left: 80px;
+    font-size: 27px;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(38, 2, 66);
+    align-items: center;
+    padding: 0px 50px;
+}
+
+.links a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 170%;
+    font-weight: 900;
+    text-decoration: underline 2px solid;
+    
+}
+.links a:hover{
+    text-decoration: underline 2px solid;
+    color: black;
+    transition: 0.6s;
+}
+
+.logo{
+    padding: 20px;
+}
